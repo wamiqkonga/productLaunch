@@ -44,7 +44,7 @@ const Footer = () => {
           </Grid>
         </Grid>
         <Typography variant="body2" color="textSecondary" align="center" style={{ marginTop: '20px' }}>
-          © {new Date().getFullYear()} Your Company Name. All rights reserved.
+          © {new Date().getFullYear()} Xexa. All rights reserved.
         </Typography>
       </Container>
     </footer>
